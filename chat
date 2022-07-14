@@ -1,5 +1,8 @@
 
-local a="OTIMOS ±_± Is Loaded.... Thank you for using OTIMOS ±_± <3"local b=Color3.new(0.184314,0.647059,1)game:GetService("ReplicatedStorage").SendLocalChatMessage:Fire(a,b)
+local a="OTIMOS ±_± Carregando.... Obrigado Por Usar Meu Script
+OTIMOS ±_± Is Loaded..... Thank you For using my script
+
+OTIMOS HERE <3"local b=Color3.new(0.184314,0.647059,1)game:GetService("ReplicatedStorage").SendLocalChatMessage:Fire(a,b)
 
 _, Protected_by_OTIMOS, Discord = 'https://discord.gg/MTtWhrSGzt'
 
